@@ -1,0 +1,8 @@
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/dto/TravelDeductionResponseDTO.java
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/domain/TravelDeduction.java
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/domain/Travel.java
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/services/calculator/CalculatorServiceImpl.java
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/dto/TravelDTO.java
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/services/calculator/CalculatorService.java
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/dto/TravelDeductionDTO.java
+/home/elitho/projects/bekkCaseA/src/main/java/com/elitho/travelDeduction/AwsLambdaRequestHandler.java
